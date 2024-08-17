@@ -105,7 +105,7 @@ It clearly shows that LinearSVC has the highest accuracy consistently, with Logi
 |Accuracy on testing set    | 0.8585          | 0.8682              	| 0.8730     	|
 
 
-
+Also the model is summerized using the Distilbert Model and code for that is provided in the above file.
 
 
 
